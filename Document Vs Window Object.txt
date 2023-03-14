@@ -1,0 +1,19 @@
+DOCUMENT OBJECT:
+  Its reprasenting a web page and its have a several properties.
+  Each HTML document object loaded into a browser window becomes a document object.
+  The document object provides access to all HTML elements iin a page, from with in 
+a script.
+   Its property of a window object.
+   Document -> <HTML> -> <head> & <Body>
+     <head> --> <title> -->Text my title 
+     <body> --><a> & <h1>
+      <a> ---> link
+      <h1> --> my header  
+  In document object document.open() creats a balck document.
+
+WINDOW OBJECT:
+  Its reprasenting a window in a browsser.
+  An object of window is created autometicllu by the browser and its 
+suppoted by all browesrs.
+It has property like browser history, location and device's screen etc...
+In this window.open() opens a new tap or window.               
